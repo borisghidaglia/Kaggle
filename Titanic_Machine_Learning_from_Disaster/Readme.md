@@ -10,5 +10,6 @@ Link to the competition : [Titanic](https://www.kaggle.com/c/titanic/overview)
 ### Results
 Methods | Score | Public Rank | Date
 ------------ | ------------- | ------------- | -------------
-PCA + K-Means + LogisticRegression | 0.77990 | 4000 / 9867 | February 7th 2019
-SVM | 0.76555 | 5974 / 9867 | February 6th 2019
+Stacking with simple validation | 0.78947 | 2088 / 10055 : top 21% | March 15th 2019
+PCA + K-Means + LogisticRegression | 0.77990 | 4000 / 9867 : top 0.41% | February 7th 2019
+SVM | 0.76555 | 5974 / 9867 : top 61% | February 6th 2019
